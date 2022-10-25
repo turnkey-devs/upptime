@@ -2,11 +2,14 @@
 owner: turnkey-devs # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-sites:
-  - name: Secret Turnkey
-    url: https://secret.turnkey.id
-  - name: Orbit
+sites:    
+  # Services
+  - name: TurnkeyID Service - Orbit Service
     url: https://orbit.turnkey.id
+  - name: TurnkeyID Service - FOREX-CRM Service
+    url: https://forexcrm.turnkey.id/health
+
+  # Dashboard
   - name: Secure Primecodex Client Dashboard
     url: https://secure.primecodex.com
   - name: Secure Primecodex Future Client Dashboard
