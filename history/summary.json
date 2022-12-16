@@ -22,18 +22,20 @@
     "url": "https://forexcrm.turnkey.id/health",
     "icon": "https://icons.duckduckgo.com/ip3/forexcrm.turnkey.id.ico",
     "slug": "turnkey-id-service-forex-crm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 996,
-    "timeWeek": 975,
-    "timeMonth": 907,
-    "timeYear": 901,
-    "dailyMinutesDown": {}
+    "time": 903,
+    "timeDay": 1009,
+    "timeWeek": 981,
+    "timeMonth": 910,
+    "timeYear": 903,
+    "dailyMinutesDown": {
+      "2022-12-16": 0
+    }
   },
   {
     "name": "Secure Primecodex Client Dashboard",
