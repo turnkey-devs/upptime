@@ -22,18 +22,19 @@
     "url": "https://forexcrm.turnkey.id/health",
     "icon": "https://icons.duckduckgo.com/ip3/forexcrm.turnkey.id.ico",
     "slug": "turnkey-id-service-forex-crm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 901,
-    "timeDay": 833,
-    "timeWeek": 920,
+    "timeDay": 883,
+    "timeWeek": 921,
     "timeMonth": 914,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2022-12-21": 0,
       "2022-12-16": 15
     }
   },
