@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 859,
-    "timeWeek": 852,
-    "timeMonth": 933,
-    "timeYear": 937,
+    "time": 934,
+    "timeDay": 798,
+    "timeWeek": 855,
+    "timeMonth": 929,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 893,
-    "timeDay": 806,
+    "time": 891,
+    "timeDay": 778,
     "timeWeek": 818,
-    "timeMonth": 903,
-    "timeYear": 893,
+    "timeMonth": 901,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2022-12-21": 6,
       "2022-12-16": 15
@@ -45,15 +45,15 @@
     "slug": "secure-primecodex-client-dashboard",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
-    "time": 1080,
-    "timeDay": 1055,
-    "timeWeek": 1009,
-    "timeMonth": 1092,
-    "timeYear": 1080,
+    "time": 1077,
+    "timeDay": 939,
+    "timeWeek": 1010,
+    "timeMonth": 1089,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2022-12-25": 81
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 889,
-    "timeWeek": 989,
-    "timeMonth": 1078,
-    "timeYear": 1075,
+    "time": 1073,
+    "timeDay": 952,
+    "timeWeek": 986,
+    "timeMonth": 1075,
+    "timeYear": 1073,
     "dailyMinutesDown": {}
   }
 ]
